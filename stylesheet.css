@@ -1,0 +1,21 @@
+body {
+    background-color:coral;
+    } 
+    .headliners {
+        background-color: rgb(123, 216, 163);
+        color: whitesmoke;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center
+    }
+    .basic-black { 
+        color: black; 
+        margin-left: auto; 
+        margin-right: auto
+    } 
+    .center {
+        display: block; 
+        margin-left: auto; 
+        margin-right: auto; 
+        width: 50%;
+    }
